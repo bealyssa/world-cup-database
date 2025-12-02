@@ -80,3 +80,29 @@ chmod +x /workspace/project/insert_data.sh /workspace/project/queries.sh
 cd /workspace/project
 psql --username=freecodecamp --dbname=worldcup -c "SELECT COUNT(*) FROM teams;"
 psql --username=freecodecamp --dbname=worldcup -c "SELECT COUNT(*) FROM games;"
+cd /workspace/project
+cd /workspace/project
+psql --username=freecodecamp --dbname=worldcup -c "\d teams"
+psql --username=freecodecamp --dbname=worldcup -c "\d games"
+cd /workspace/project
+ls --color=auto -lh /workspace/project/worldcup.sql
+cd /workspace/project
+ls --color=auto -lh /workspace/project/worldcup.sql
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+git remote add origin https://github.com/yourusername/world-cup-database.git
+git remote add origin https://github.com/yourusername/world-cup-database.git
+git remote add origin https://github.com/bealyssa/world-cup-database.git
+alias
+git push -u origin main
+cd /workspace/project
+cd /workspace/project
+cd /workspace/project
+ls --color=auto -la ~/.ssh/id_*.pub 2> /dev/null
+gh auth login
+__vsc_prompt_cmd_original
+cd /workspace/project
+git add .
